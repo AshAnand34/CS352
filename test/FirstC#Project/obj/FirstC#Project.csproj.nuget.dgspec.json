@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aashi\\OneDrive\\Documents\\Junior\\Fall\\CS352\\test\\FirstC#Project\\FirstC#Project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aashi\\OneDrive\\Documents\\Junior\\Fall\\CS352\\test\\FirstC#Project\\FirstC#Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aashi\\OneDrive\\Documents\\Junior\\Fall\\CS352\\test\\FirstC#Project\\FirstC#Project.csproj",
+        "projectName": "FirstC#Project",
+        "projectPath": "C:\\Users\\aashi\\OneDrive\\Documents\\Junior\\Fall\\CS352\\test\\FirstC#Project\\FirstC#Project.csproj",
+        "packagesPath": "C:\\Users\\aashi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aashi\\OneDrive\\Documents\\Junior\\Fall\\CS352\\test\\FirstC#Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aashi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

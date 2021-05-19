@@ -1,0 +1,16 @@
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\bin\Debug\net5.0\FirstC#Project.exe
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\bin\Debug\net5.0\FirstC#Project.deps.json
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\bin\Debug\net5.0\FirstC#Project.runtimeconfig.json
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\bin\Debug\net5.0\FirstC#Project.runtimeconfig.dev.json
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\bin\Debug\net5.0\FirstC#Project.dll
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\bin\Debug\net5.0\ref\FirstC#Project.dll
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\bin\Debug\net5.0\FirstC#Project.pdb
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\obj\Debug\net5.0\FirstC#Project.csprojAssemblyReference.cache
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\obj\Debug\net5.0\FirstC#Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\obj\Debug\net5.0\FirstC#Project.AssemblyInfoInputs.cache
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\obj\Debug\net5.0\FirstC#Project.AssemblyInfo.cs
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\obj\Debug\net5.0\FirstC#Project.csproj.CoreCompileInputs.cache
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\obj\Debug\net5.0\FirstC#Project.dll
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\obj\Debug\net5.0\ref\FirstC#Project.dll
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\obj\Debug\net5.0\FirstC#Project.pdb
+C:\Users\aashi\OneDrive\Documents\Junior\Fall\CS352\test\FirstC#Project\obj\Debug\net5.0\FirstC#Project.genruntimeconfig.cache
